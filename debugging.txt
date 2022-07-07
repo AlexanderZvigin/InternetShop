@@ -1,0 +1,13 @@
+array (
+  'id' => 'уца',
+  'Nazvanie' => 'ццуа',
+  'country' => '',
+  'proizvoditel' => '',
+  'type' => '',
+  'color' => '',
+  'material' => '',
+  'pol' => 'products',
+  'razmer' => '',
+  'img' => 'img/img3.jpg',
+  'price' => '5633',
+)
